@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  background: #212529;
+}
+
+.App {
+  position: absolute;
+  left: 0%;
+  top: 30%;
+  width: 100%;
+  text-align: center;
+}
+
+.react {
+  font-size: 100px;
+  color: aqua;
+}
+
+h1 {
+  color: aliceblue;
+}
+
+span.count {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 30px;
+  color: aliceblue;
+}
+
+button {
+  padding: 8px;
+  margin-left: 5px;
+  text-align: center;
+}
+button.up {
+  color: rgb(14, 223, 14);
+}
+button.down {
+  color: rgba(255, 0, 0, 0.925);
+}
+button.up {
+  color: rgb(14, 223, 14);
+}
