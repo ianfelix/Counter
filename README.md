@@ -9,5 +9,11 @@ Contador simples utilizando React, CSS e React-icons
 </p>
 
 <div align="center">
+<a href="https://counter-theta.vercel.app/">
+Link da aplicação
+</a>
+</div>
+
+<div align="center">
 <img src="https://i.imgur.com/X88DqnN.png"/>
 </div>
